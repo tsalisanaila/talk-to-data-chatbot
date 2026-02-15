@@ -13,9 +13,9 @@ This application is an **AI-Powered Analytics Chatbot** designed to bridge the g
 
 ## 📸 Demo Preview
 
-![Chatbot Screenshot (1)](assets\screenshot_retail-chatbot(1).png)
+![Chatbot Screenshot (1)](chatbot1.png)
 
-![Chatbot Screenshot (2)](assets\screenshot_retail-chatbot(2).png)
+![Chatbot Screenshot (2)](chatbot2.png)
 
 > *Example: The user asks "Show the sales trend per month," and the AI generates the SQL query and renders a Line Chart automatically.*
 
