@@ -1,0 +1,14 @@
+# Abaikan file sistem
+__pycache__/
+*.pyc
+
+# Abaikan environment virtual
+venv/
+.env
+
+# Abaikan file rahasia Streamlit
+.streamlit/secrets.toml
+
+*.xlsx
+*.csv
+*.sql
